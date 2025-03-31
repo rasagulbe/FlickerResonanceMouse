@@ -10,7 +10,9 @@
 2. Computation of trial-average and single-trial power and phase maps.
 3. Preprocessing raw widefield imaging data (loading, alignment between recordings, global signal regression (GSR), baseline correction, robust regression, spatial Gaussian filter).
 4. Testing statistical significance of responses to flicker in V1 and whole cortex level (bootstrapping using Wilcox's bootstrap-t).
-5. Spatiotemporal pattern analysis using two-stage GED: (1) dimensionality reduction using PCA; (2) generalized eigenvalue decomposition (GED) as implemented in Rhythmic Source Separation method (RESS; see Cohen and Gulbinaite, 2017 NeuroImage; PMID: 27916666).
+5. Spatiotemporal pattern analysis using two-stage GED:
+     * dimensionality reduction using PCA;
+     * generalized eigenvalue decomposition (GED) as implemented in Rhythmic Source Separation method (RESS; see Cohen and Gulbinaite, 2017 NeuroImage; [DOI: https://doi.org/10.1016/j.neuroimage.2016.11.036 ](https://doi.org/10.1016/j.neuroimage.2016.11.036)).
 ##
 ### Dataset 
 All raw data can be found on DRYAD repository (https://datadryad.org/dataset/doi:10.5061/dryad.vdncjsz42)
