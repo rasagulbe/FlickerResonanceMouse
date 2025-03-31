@@ -2,7 +2,7 @@
 
 ## The code accompanying the paper "Spatiotemporal resonance in mouse primary visual cortex"
 
-### Rasa Gulbinaite, Diane H. M. Roozendaal, Rufin VanRullen, 2024, _Current Biology_, 34, 4184-4196.e7
+### Rasa Gulbinaite, Mojtaba Nazari, Michael E. Rule, Edgar J. Bermudez-Contreras, Mike X Cohen, Majid H. Mohajerani, J. Alexander Heimel, 2024, _Current Biology_, 34, 4184-4196.e7
 https://www.sciencedirect.com/science/article/abs/pii/S0960982224010595
 ##
 The repository contains MATLAB code for:
