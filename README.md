@@ -9,6 +9,6 @@ The repository contains MATLAB code for:
 1. Alignment of recordings across days and to Allen Common Coordinate Framework (CCFv3). 
 2. Preprocessing raw widefield imaging data (loading, alignment between recordings, global signal regression (GSR), baseline correction, robust regression, spatial Gaussian filter).
 3. Testing statistical significance of responses to flicker in V1 and whole cortex level (bootstrapping using Wilcox's bootstrap-t).
-4. Spatiotemporal pattern analysis using two-stage GED: (1) dimensionality reduction using PCA; (2) generalized eigenvalue decomposition (GED) or Rhythmic Source Separation (RESS; see Cohen and Gulbinaite, 2017 NeuroImage; PMID: 27916666).
+4. Spatiotemporal pattern analysis using two-stage GED: (1) dimensionality reduction using PCA; (2) generalized eigenvalue decomposition (GED) as implemented in Rhythmic Source Separation method (RESS; see Cohen and Gulbinaite, 2017 NeuroImage; PMID: 27916666).
 
 **Requirements:** MATLAB Image Processing Toolbox and Signal Processing Toolbox. The code was run on MATLAB 2019b.
