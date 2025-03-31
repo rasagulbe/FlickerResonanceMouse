@@ -694,7 +694,7 @@ switch h.nOperationMode
     tmp=1e-6*h.lActualAcqLength*h.fADCSampleInterval;
     if verbose
       disp(['total length of recording: ' num2str(tmp,'%5.1f') ' s ~ ' num2str(tmp/60,'%3.0f') ' min']);
-      disp(['sampling interval: ' num2str(h.si,'%5.0f') ' µs']);
+      disp(['sampling interval: ' num2str(h.si,'%5.0f') ' Âµs']);
       % 8 bytes per data point expressed in Mb
       disp(['memory requirement for complete upload in matlab: '...
         num2str(round(8*h.lActualAcqLength/2^20)) ' MB']);
