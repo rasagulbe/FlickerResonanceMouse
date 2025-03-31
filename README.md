@@ -12,4 +12,6 @@ The repository contains MATLAB code for:
 4. Testing statistical significance of responses to flicker in V1 and whole cortex level (bootstrapping using Wilcox's bootstrap-t).
 5. Spatiotemporal pattern analysis using two-stage GED: (1) dimensionality reduction using PCA; (2) generalized eigenvalue decomposition (GED) as implemented in Rhythmic Source Separation method (RESS; see Cohen and Gulbinaite, 2017 NeuroImage; PMID: 27916666).
 
+#### NOTE: All raw data can be found on DRYAD repository (https://datadryad.org/dataset/doi:10.5061/dryad.vdncjsz42)
+
 **Requirements:** MATLAB Image Processing Toolbox and Signal Processing Toolbox. The code was run on MATLAB 2019b.
