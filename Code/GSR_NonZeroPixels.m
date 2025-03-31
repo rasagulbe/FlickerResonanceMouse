@@ -5,7 +5,7 @@ function R = GSR_NonZeroPixels(P)
 % Edgar Bermudez October 2016
 % adapted from Fox MD, Zhang D, Snyder AZ, Raichle ME. The global signal
 % and observed anticorrelated resting state brain networks. J Neurophysiol
-% [Internet]. 2009;101(6):3270–83. 
+% [Internet]. 2009;101(6):3270â€“83. 
 
 % Edited by: Rasa Gulbinaite March 2021, adapted for 2D instead of 3D matrix
 
