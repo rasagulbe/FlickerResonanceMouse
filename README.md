@@ -4,7 +4,7 @@
 ### Rasa Gulbinaite, Mojtaba Nazari, Michael E. Rule, Edgar J. Bermudez-Contreras, Mike X Cohen, Majid H. Mohajerani, J. Alexander Heimel, 2024, _Current Biology_, 34, 4184-4196.e7
 #### DOI: [https://www.cell.com/current-biology/abstract/S0960-9822(24)01059-5](https://www.cell.com/current-biology/abstract/S0960-9822(24)01059-5)
 ##
-![Graphical abstract Git](https://github.com/user-attachments/assets/2351831d-18cc-4eb8-99e0-1daa31e28eea)
+![Graphical abstract Git_v2](https://github.com/user-attachments/assets/d5d48a17-9321-4170-bd2e-d39113508c93)
 ##
 ### The repository contains MATLAB code for:
 
