@@ -1,8 +1,8 @@
-### Code accompanying publication:
-## [Spatiotemporal resonance in mouse primary visual cortex](https://www.cell.com/current-biology/abstract/S0960-9822(24)01059-5)
+#### Code accompanying publication:
+### [Spatiotemporal resonance in mouse primary visual cortex](https://www.cell.com/current-biology/abstract/S0960-9822(24)01059-5)
 
-### Rasa Gulbinaite, Mojtaba Nazari, Michael E. Rule, Edgar J. Bermudez-Contreras, Mike X Cohen, Majid H. Mohajerani, J. Alexander Heimel, 2024, _Current Biology_, 34, 4184-4196.e7
-#### DOI: [https://www.cell.com/current-biology/abstract/S0960-9822(24)01059-5](https://www.cell.com/current-biology/abstract/S0960-9822(24)01059-5)
+#### Rasa Gulbinaite, Mojtaba Nazari, Michael E. Rule, Edgar J. Bermudez-Contreras, Mike X Cohen, Majid H. Mohajerani, J. Alexander Heimel, 2024, _Current Biology_, 34, 4184-4196.e7
+#### DOI: [https://doi.org/10.1016/j.cub.2024.07.091](https://doi.org/10.1016/j.cub.2024.07.091)
 ##
 ![Graphical abstract Git_v2](https://github.com/user-attachments/assets/36c9ce0f-84a1-427a-b2e0-23751cde5494)
 ##
