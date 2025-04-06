@@ -9,8 +9,8 @@
 ### The repository contains MATLAB code for:
 
 1. Alignment of recordings across days and to Allen Common Coordinate Framework (CCFv3). 
-2. Computation of trial-average and single-trial power and phase maps.
-3. Preprocessing raw widefield imaging data (loading, alignment between recordings, global signal regression (GSR), baseline correction, robust regression, spatial Gaussian filter).
+2. Preprocessing raw widefield imaging data (loading, alignment between recordings, global signal regression (GSR), baseline correction, robust regression, spatial Gaussian filter), separately for two different experimental protocols.
+3. Computation of trial-average and single-trial power and phase maps.
 4. Testing statistical significance of responses to flicker in V1 and whole cortex level (bootstrapping using Wilcox's bootstrap-t).
 5. Spatiotemporal pattern analysis using two-stage GED:
      * dimensionality reduction using PCA;
